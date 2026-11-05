@@ -2,13 +2,13 @@
 
 # Luis Daniel Ortiz Burón
 
-### Product development · Web, Python & business automation
+### Product Developer · Full-stack & business automation
 
-I turn operational problems into practical software: property discovery, product content, race timing and inventory reporting.
+I turn ideas and operational needs into digital products, connecting product definition, interface design, frontend, backend and business workflows.
 
-My background is in business operations. I bring that perspective to software development, working with AI coding agents to translate requirements into implementations, review behavior and validate workflows.
+My background spans tourism operations, team leadership and commerce analytics. I bring that experience to software: understanding the customer, choosing what to build first and translating business needs into usable interfaces and working systems.
 
-**Open to remote development and automation opportunities.**
+**Open to remote full-stack roles, startup prototypes, MVP development and business automation projects.**
 
 ## Selected work
 
@@ -20,6 +20,17 @@ My background is in business operations. I bring that perspective to software de
 | **Commerce automation** | Inventory and reporting workflows connecting business data across sources. | Python, Playwright, pandas, openpyxl |
 
 [Explore the project case studies →](https://github.com/supergaohabana/portfolio)
+
+## From business problem to product
+
+- **Product definition:** clarify the audience, workflow, priorities and scope of a first version.
+- **Interface design:** turn requirements into screens, interactions and testable user journeys.
+- **Full-stack development:** connect web and mobile interfaces with backend services, databases and integrations.
+- **Business automation:** build tools around reporting, inventory and operational decisions.
+
+## Background
+
+Bachelor’s degree in Tourism, University of Havana (2020). My professional experience includes hospitality operations, team management, SEO and content, and commerce product analytics. This perspective helps me connect software decisions to the people and businesses using the product.
 
 ## How I work
 
