@@ -32,6 +32,14 @@ My background spans tourism operations, team leadership and commerce analytics. 
 
 Bachelor’s degree in Tourism, University of Havana (2020). My professional experience includes hospitality operations, team management, SEO and content, and commerce product analytics. This perspective helps me connect software decisions to the people and businesses using the product.
 
+## Academic recognition & languages
+
+- **University of Havana — Tourism degree (2020):** academic average **4.94/5.00**, **Título de Oro** (academic distinction).
+- **UNWTO Students’ League (2020):** member of **Team Cuba Va**, which placed **12th among 60 teams from 32 countries**.
+- **Provincial Economics Forum, Havana (2018):** **Destacado** recognition as co-author of a **Balanced Scorecard proposal for Hotel Nacional de Cuba**.
+
+**Languages:** Spanish — native · French — C1 (self-assessed), with **DELF B2 certification (2022)** · English — B1+.
+
 ## How I work
 
 - Start with the workflow and the people using it.
