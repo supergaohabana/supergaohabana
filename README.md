@@ -10,6 +10,13 @@ My background spans tourism operations, team leadership and commerce analytics. 
 
 **Open to remote full-stack roles, startup prototypes, MVP development and business automation projects.**
 
+## Project links
+
+- **SuperGao:** [Google Play — Android](https://play.google.com/store/apps/details?id=com.supergaohabana.app) · [Web app](https://supergao-cuba-web.web.app/)
+- **Vitrivo:** [Open the web app](https://vitrivo-estudio.web.app/)
+- **CRONO:** local prototype; see the case study for its demonstrated workflows and hardware validation limits.
+- **Commerce automation:** internal workflows; described through the case study rather than a public application.
+
 ## Selected work
 
 | Project | Problem & approach | Technologies used |
