@@ -30,6 +30,18 @@ My background spans tourism operations, team leadership and commerce analytics. 
 
 [Explore the project case studies →](https://github.com/supergaohabana/portfolio)
 
+## Tools behind the work
+
+**Build:** Flutter/Dart, React/TypeScript, Python, Node.js and SQL.
+
+**Cloud & integrations:** Supabase, Render, Firebase, Cloudinary, Google APIs, Gemini and Groq.
+
+**Validate & understand:** Playwright, application/database tests, GA4, API checks and production investigations.
+
+**Design & deliver:** Claude Design, Google Stitch, GitHub, GitHub Actions and Google Play Console.
+
+[See tools by project, their purpose and validation status](https://github.com/supergaohabana/portfolio/blob/main/technologies.md)
+
 ## From business problem to product
 
 - **Product definition:** clarify the audience, workflow, priorities and scope of a first version.
