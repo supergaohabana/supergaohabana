@@ -14,6 +14,7 @@ My background spans tourism operations, team leadership and commerce analytics. 
 
 - **SuperGao:** [Google Play — Android](https://play.google.com/store/apps/details?id=com.supergaohabana.app) · [Web app](https://supergao-cuba-web.web.app/)
 - **Vitrivo:** [Open the web app](https://vitrivo-estudio.web.app/)
+- **Pescadería 19 y B:** [Presentation demo](https://pescaderia-19-y-b.web.app/) — orders restricted to test accounts.
 - **CRONO:** local prototype; see the case study for its demonstrated workflows and hardware validation limits.
 - **Commerce automation:** internal workflows; described through the case study rather than a public application.
 
@@ -21,9 +22,10 @@ My background spans tourism operations, team leadership and commerce analytics. 
 
 | Project | Problem & approach | Technologies used |
 | :--- | :--- | :--- |
-| **SuperGao** | Property platform connecting a mobile application, web interface and backend services. | React, TypeScript, Flutter, Python, PostgreSQL |
+| **SuperGao** | Property platform connecting mobile, web, a separate administration panel and backend services. | React, TypeScript, Flutter, Python, PostgreSQL |
 | **Vitrivo** | Product composition workspace with reusable assets and catalog synchronization. | TypeScript, Node.js, PWA, PostgreSQL |
 | **CRONO** | Sports timing prototype with auditable corrections, recoverable sessions and a simulated RFID workflow. | Python, SQLite, JavaScript |
+| **Pescadería 19 y B** | Storefront and operations management: orders, stock reservations, inventory movements and delivery workflows. Presentation demo. | React, TypeScript, PostgreSQL |
 | **Commerce automation** | Inventory and reporting workflows connecting business data across sources. | Python, Playwright, pandas, openpyxl |
 
 [Explore the project case studies →](https://github.com/supergaohabana/portfolio)
@@ -33,6 +35,7 @@ My background spans tourism operations, team leadership and commerce analytics. 
 - **Product definition:** clarify the audience, workflow, priorities and scope of a first version.
 - **Interface design:** turn requirements into screens, interactions and testable user journeys.
 - **Full-stack development:** connect web and mobile interfaces with backend services, databases and integrations.
+- **Management systems:** design administrative panels, order workflows and inventory tools around daily operations.
 - **Business automation:** build tools around reporting, inventory and operational decisions.
 
 ## Background
